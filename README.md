@@ -12,5 +12,5 @@
 
 *sudo bash PDF-Unlocker.sh*
 
-# NOTE
-This script is only compatible with linux
+# NOTE:
+*This script is only compatible with linux*
